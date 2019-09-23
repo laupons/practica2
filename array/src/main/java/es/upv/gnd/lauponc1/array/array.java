@@ -7,7 +7,7 @@ import java.util.Random;
 public class array {
     public static void main(String[] main) {
         ArrayList<Persona> p = new ArrayList<>();
-        p.add(new Persona("Laura", 18));
+        p.add(new Persona("Mec", 26));
         p.add(new Profesor("Javier", 35, "IOT"));
         p.add(new Alumno("Pepa", 22, 2));
         for(Persona x:p){
