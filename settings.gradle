@@ -1,0 +1,2 @@
+include ':app', ':array', ':Principal'
+rootProject.name='Práctica2'
